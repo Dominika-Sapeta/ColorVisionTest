@@ -1,0 +1,9 @@
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\bin\Debug\ISHIHARA.exe.config
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\bin\Debug\ISHIHARA.exe
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\bin\Debug\ISHIHARA.pdb
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.csprojResolveAssemblyReference.cache
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.Form1.resources
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.Properties.Resources.resources
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.csproj.GenerateResource.Cache
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.exe
+C:\Users\Dominika\Desktop\ISHIHARA\ISHIHARA\ISHIHARA\obj\Debug\ISHIHARA.pdb
